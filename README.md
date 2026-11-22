@@ -1,5 +1,3 @@
-# CardioSafe-AI
-CardioSafe AI is a student research prototype for an AI in Healthcare course. It reads a 12-lead ECG and a prescription together, and shows which medicines have FDA label text linked to what the ECG shows. 
 # CardioSafe AI
 
 **Calibrated ECG analysis with evidence-linked medication cardiac-safety checking.**
