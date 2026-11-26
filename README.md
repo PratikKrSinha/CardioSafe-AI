@@ -99,6 +99,3 @@ All notebooks read from and write to `MyDrive/CardioSafe` on Google Drive.
 - DDInter and CredibleMeds were not used.
 - The label link shows what a label says, not that a drug caused an ECG finding.
 
-## Authors
-
-[Add team names and enrollment numbers] &nbsp;|&nbsp; Mentor: [add name] &nbsp;|&nbsp; Bennett University, 
