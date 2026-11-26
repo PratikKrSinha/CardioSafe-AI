@@ -101,8 +101,4 @@ All notebooks read from and write to `MyDrive/CardioSafe` on Google Drive.
 
 ## Authors
 
-[Add team names and enrollment numbers] &nbsp;|&nbsp; Mentor: [add name] &nbsp;|&nbsp; Bennett University, SCSET
-
-## License
-
-[Add a license, for example MIT for the code. PTB-XL, openFDA and RxNorm have their own terms.]
+[Add team names and enrollment numbers] &nbsp;|&nbsp; Mentor: [add name] &nbsp;|&nbsp; Bennett University, 
