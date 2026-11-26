@@ -6,8 +6,6 @@ A student research project for an AI in Healthcare course.
 > **Research prototype, not a medical device.** It must not be used for diagnosis or to change treatment.
 > "None found" never means a drug is safe.
 
-**Live demo:** [add Hugging Face Space link] &nbsp;|&nbsp; **Demo video:** [add YouTube link] &nbsp;|&nbsp; **Report:** [add link or `report/` folder]
-
 ---
 
 ## What it does
